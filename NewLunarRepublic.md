@@ -2,12 +2,12 @@
 
 | Date | Host | By | Notes |
 |------|------|----|-------|
-| Tue May 17 08:39:45 2016 | `*!*@Pony-j6t9vq.fbx.proxad.net` | MKody | rebe: Insultes + CANTERLOT VOICE |
-| Sat Apr 30 17:01:28 2016 | `*!*@Pony-jdghqf.abo.wanadoo.fr` | L |   |
-| Sat Apr 23 18:32:17 2016 | `*!*@Pony-lva0s9.fbx.proxad.net` | Luna |   |
-| Sat Apr 23 18:26:14 2016 | `*!*@Pony-mo6.dv2.177.91.IP` | Luna |   |
-| Mon Apr 18 10:39:41 2016 | `*!*@Pony-5g8.t11.191.78.IP` | MKody |   |
-| Sat Apr 16 18:23:12 2016 | `*!*@Pony-a1bqre.cust.swisscom.ch` | MKody | Manque de maturité  |
+| Tue May 17 08:39:45 2016 | `*!*@Pony-j6t9vq.fbx.proxad.net` | MKody | `<rebe> TG!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!` |
+| Sat Apr 30 17:01:28 2016 | `*!*@Pony-jdghqf.abo.wanadoo.fr` | L | `<geoff34> Alors quant vous irez chez les médécin pour vous soignez de la zoophilie`  |
+| Sat Apr 23 18:32:17 2016 | `*!*@Pony-lva0s9.fbx.proxad.net` | Luna | Flood et kikoorage |
+| Sat Apr 23 18:26:14 2016 | `*!*@Pony-mo6.dv2.177.91.IP` | Luna | `<Dragthon> QUI AS FAIT SA ?!!! C'EST ENCORE TOI ANDREWLIGHT ?!!!`  |
+| Mon Apr 18 10:39:41 2016 | `*!*@Pony-5g8.t11.191.78.IP` | MKody | Cross-Chan ban (spam) |
+| Sat Apr 16 18:23:12 2016 | `*!*@Pony-a1bqre.cust.swisscom.ch` | MKody | Manque de respect (+ menaces hack)  |
 | Sun Apr  3 22:15:43 2016 | `bella!*@*` | MKody | Bella: Insultes |
 | Sun Apr  3 22:12:59 2016 | `*!*@Pony-e2el01.dsl.bell.ca` | Luna | Bella: Insultes  |
 | Wed Mar 23 10:24:54 2016 | `*!*@Pony-6df.i4s.66.41.IP` | cloudchaser.canternet.org |   |
