@@ -1,7 +1,13 @@
-*Generated `Fri Aug  5 15:39:29 2016 (Paris, Madrid (heure d'été))`*
+*Generated `Fri Jan 13 23:34:44 2016 (Paris, Madrid (heure d'été))`*
 
 | Date | Host | Notes |
 |------|------|-------|
+| Sun Dec 18 23:00:32 2016 | `*!*@Pony-rgvsoe.cpe.netcabo.pt` | Bot pub |
+| Sun Dec 18 23:00:32 2016 | `*!*@Pony-n5dj02.abo.wanadoo.fr` | Ments pas et stop le troll plz |
+| Sun Dec 18 23:00:32 2016 | `*!*@Pony-ba97au.cable.virginm.net` | Flood vers de torrents de pr0n |
+| Sun Dec 18 23:00:32 2016 | `*!Luna@*` | Mouais, évitez de vous faire passer pour Luna... |
+| Sun Dec 18 23:00:32 2016 | `*!*@Pony-qj5.hdm.215.80.IP` | Gtfo (plz no troll) |
+| Sun Dec 18 23:00:32 2016 | `*!*@Pony-vis.9up.243.77.IP` | Look, we don't care about your "attacks", comming from your _country_. |
 | Fri Aug  5 15:34:40 2016 | `*!*@Pony-srh.80f.149.90.IP` | Déco-reco manuellement en boucle sans réponses. |
 | Thu Aug  4 08:15:23 2016 | `*!*@Pony-ijrn3i.abo.wanadoo.fr` | Pas de clop et pas de pub. |
 | Mon Jun 13 22:11:00 2016 | `*!*@Pony-hodri4.fbx.proxad.net` | `<lol> lololololo et lollolloolololololololol` _quit_ |
